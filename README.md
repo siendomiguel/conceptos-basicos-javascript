@@ -1,1 +1,1 @@
-Este es un repositorio de solo conceptos basicos de JavaScripts
+Este es un repositorio de solo conceptos basicos de JavaScript
